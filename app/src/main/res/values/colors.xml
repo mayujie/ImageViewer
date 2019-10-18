@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="blueColor">#0000FF</color>
+    <color name="blackColor">#000000</color>
+<!--在colors.xml颜色资源文件中6、7行加了两行代码，第六行定义了一个蓝色，#0000FF代表蓝色，第七行定义黑色，#000000代表黑色，之后我们会根据name为blueColor和blackColor来引用这两个颜色-->
+</resources>
